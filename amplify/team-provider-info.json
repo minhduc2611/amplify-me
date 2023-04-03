@@ -13,7 +13,13 @@
     },
     "categories": {
       "function": {
-        "userFunc": {}
+        "userFunc": {
+          "deploymentBucketName": "amplify-amplifypynuxt-dev-204900-deployment",
+          "s3Key": "amplify-builds/userFunc-364567657539464c4a58-build.zip"
+        }
+      },
+      "api": {
+        "PythonApi": {}
       }
     }
   }

@@ -22,9 +22,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
 </template>
 
 <style scoped>
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+
 header {
   line-height: 1.5;
   max-height: 100vh;
