@@ -1,6 +1,7 @@
 # amplify-me
 
-This template should help get you started developing with Vue 3 in Vite.
+A small project that provides ultilities.
+- Instagram Posting Schelduler with Python [Instagrapi](https://adw0rd.github.io/instagrapi/usage-guide/media.html).
 
 ## Recommended IDE Setup
 
