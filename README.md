@@ -1,7 +1,7 @@
 # amplify-me
 
 A small project that provides ultilities.
-[x] Instagram Posting Schelduler with Python 
+- Instagram Posting Schelduler with Python.
 
 ## Recommended IDE Setup
 
